@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Enterich Duck!</h1>
+<h1 align="center">Hi 👋, I'm Enterich Duck!</h1>
 <h3 align="center">A passionate game developer from the depths of Swan Sea!</h3>
 
 - 🔭 I’m currently working on [Fall & Spring](https://github.com/enterichDuck/Game_FallAndSpring)
